@@ -61,7 +61,7 @@ For custom features, business cooperation, or technical support, please contact:
 串口调试工具（Serial Port Debugger）
 简介
 串口调试工具是一款功能强大、操作简便的串口通信调试软件，广泛应用于嵌入式开发、硬件调试、生产测试等场景。软件支持多种常用串口协议设置，能够高效完成数据发送、接收及自动化测试任务，是开发工程师和技术人员的得力助手。
-
+![功能展示1](Images/CN.png)
 # 主要功能
 
 # 串口连接与参数配置
