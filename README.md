@@ -1,3 +1,9 @@
+New version 1.0.3
+Added monitoring chart functionality
+2. Added comparison conditions for monitoring points
+3. Added single-trigger command sending feature
+![功能展示1](Images/chart.png)
+
 # Serial Port Debugger
 # Overview
 Serial Port Debugger is a powerful and user-friendly software tool designed for serial communication debugging. Widely used in embedded development, hardware debugging, and production testing, this tool supports comprehensive serial port configuration and enables efficient data transmission, reception, and automated testing. It is an essential assistant for engineers and technical professionals.
