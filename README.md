@@ -1,8 +1,8 @@
 New version 1.0.3
-Added monitoring chart functionality
+1. Added monitoring chart functionality
 2. Added comparison conditions for monitoring points
 3. Added single-trigger command sending feature
-![功能展示1](Images/chart.png)
+![功能展示1](Images/Chart.png)
 
 # Serial Port Debugger
 # Overview
