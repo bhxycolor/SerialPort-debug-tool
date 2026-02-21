@@ -60,7 +60,7 @@ Continuously updated and optimized for high stability
 This software is not open source but is free to download and use. Reverse engineering or illegal use is strictly prohibited. All copyrights are owned by Succeed Technology Co., Ltd.
 
 Contact Us 
-For custom features, business cooperation, or technical support, please contact: Support@fezid.com
+For custom features, business cooperation, or technical support, please contact: Market@fezid.com
 
 
 # 中文
@@ -118,4 +118,4 @@ For custom features, business cooperation, or technical support, please contact:
 本软件为非开源产品，可自由下载安装和使用，但不允许反编译、逆向工程或用于非法用途。软件著作权归北京斯科德科技有限公司所有。
 
 # 联系方式
-如需定制功能、企业合作或技术支持，请联系：Support@fezid.com
+如需定制功能、企业合作或技术支持，请联系：Market@fezid.com
